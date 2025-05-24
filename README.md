@@ -4,7 +4,7 @@
 I'm a [your profession/role] passionate about [your interests].
 
 ## My ASCII Art Portrait
-![ASCII Art Self Portrait]("Screenshot 2025-05-24 170601.png")
+![ASCII Art Self Portrait](https://github.com/adityaxdubey/adityaxdubey/blob/main/Screenshot%202025-05-24%20170601.png)
 
 *Created this cool ASCII art representation of myself using code!*
 
