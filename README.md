@@ -1,17 +1,16 @@
 <h1 align="center">hi, i am Aditya Dubey</h1>
 <h3 align="center">ML Research | GenAI Enthusiast | Builder of Smart Data Systems</h3>
 
-- 🔭 I’m currently working on **langgraph orchestration**
+🔭 Currently building with **LangGraph orchestration**  
+🌱 Learning **Computer Vision**, **NLP papers**, and sharpening my **DSA** skills  
+🤝 Looking to collaborate on **real-time inference systems** (Edge + Cloud)  
+👨‍💻 Check out my work: [adityaxdubey.github.io](https://adityaxdubey.github.io)  
+💬 Ask me about **ML**, **GenAI**, **LangGraph**, or **Python**  
+📫 Reach out: kumardubeyaditya@gmail.com
 
-- 🌱 I’m currently learning **computer vision and nlp based papers, and sometimes dsa**
+Let’s connect!
 
-- 🤝 I’m looking for help with **Building real-time inference systems on edge + cloud infra**
 
-- 👨‍💻 All of my projects are available at [https://adityaxdubey.github.io/](https://adityaxdubey.github.io/)
-
-- 💬 Ask me about **Machine Learning, Data Science, GenAI, LangGraph, Python**
-
-- 📫 How to reach me **kumardubeyaditya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
