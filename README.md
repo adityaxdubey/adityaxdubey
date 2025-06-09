@@ -1,3 +1,6 @@
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/user-attachments/assets/0a2efe22-bb28-4547-8c18-70a43188ce79">
+</p>
 <h1 align="center">hi, i am Aditya Dubey</h1>
 <h3 align="center">ML Research | GenAI Enthusiast | Builder of Smart Data Systems</h3>
 
