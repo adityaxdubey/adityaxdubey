@@ -5,11 +5,11 @@
 <h3 align="center">ML Research | GenAI Enthusiast | Builder of Smart Data Systems</h3>
 
 
-Learning **Computer Vision**, **NLP papers**, and sharpening my **DSA** skills  
-Looking to collaborate on **real-time inference systems** (Edge + Cloud)  
-Check out my work: [adityaxdubey.github.io](https://adityaxdubey.github.io)  
-Ask me about **ML**, **GenAI**, **LangGraph**, or **Python**  
-Reach out: kumardubeyaditya@gmail.com
+-Learning **Computer Vision**, **NLP papers**, and sharpening my **DSA** skills  
+-Looking to collaborate on **real-time inference systems** (Edge + Cloud)  
+-Check out my work: [adityaxdubey.github.io](https://adityaxdubey.github.io)  
+-Ask me about **ML**, **GenAI**, **LangGraph**, or **Python**  
+-Reach out: kumardubeyaditya@gmail.com
 
 Let’s connect!
 
